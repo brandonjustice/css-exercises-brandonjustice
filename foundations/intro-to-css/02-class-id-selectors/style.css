@@ -1,0 +1,22 @@
+/* styles.css */
+
+p{
+    background-color: rgb(255, 153, 153);
+    font-family: "Verdana", "DejaVu Sans", sans-serif;
+
+}
+
+.Two{
+    color: blue;
+    font-size: 36px;
+}
+
+.Three{
+    font-size: 36px;
+}
+
+.Four{
+    background-color: rgb(128, 255, 0);
+    font-size: 36px;
+    font-weight: bold;
+}
